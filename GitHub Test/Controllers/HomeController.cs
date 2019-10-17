@@ -12,7 +12,7 @@ namespace GitHub_Test.Controllers
         public ActionResult Index()
         {
             //Added Controller
-            string iDidIt = "Yes";
+            string iDidIt = "I really did it!";
             return View();
         }
     }
